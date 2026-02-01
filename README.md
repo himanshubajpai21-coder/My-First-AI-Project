@@ -24,7 +24,7 @@ Command Execution: Recognizes the keyword "Google" to trigger a browser automati
 Clone the repository:
 
 Bash
-git clone https://github.com/YOUR_USERNAME/My-First-AI-Project.git
+git clone https://github.com/himanshubajpai21-coder/My-First-AI-Project.git
 Install dependencies:
 
 Bash
